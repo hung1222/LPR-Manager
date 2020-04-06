@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Harian",
+    "email": "haian.nt@tinasoft.vn"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "util": "^0.12.1",
+    "winston": "^3.2.1"
+  },
+  "description": "Beauty log & write storage",
+  "keywords": [
+    "log",
+    "info",
+    "warn",
+    "error"
+  ],
+  "main": "./logHistory.js",
+  "name": "log",
+  "version": "3.0.1"
+}

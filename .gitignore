@@ -1,0 +1,21 @@
+.*.sw*
+.#*
+*.log
+logs
+media
+*.pyc
+*.mo
+.pem
+.coverage
+.cache
+.\#*
+.project
+node_modules
+.idea/
+.vscode/
+.firebaserc
+/.idea/
+/APIDocument/apidoc/~$(Vietluck) API Document.xlsx
+/APIDocument/public/
+/.scannerwork/
+build

@@ -1,0 +1,8 @@
+{
+	"connectionLimit": 10,
+	"database": "lpr_manager",
+	"port": 3306,
+	"host": "localhost",
+	"user": "root",
+	"password": ""
+}

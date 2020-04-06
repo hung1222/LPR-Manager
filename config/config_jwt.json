@@ -1,0 +1,18 @@
+{
+    "email_secret": "ghasodkoadasdawljdiaodmoa",
+    "emailTokenLife": "2h",
+    "recover_pw_secret": "1zunds5avbbl",
+    "recoverPwTokenLife": "2h",
+    
+    "customer": {
+        "secret": "mnxc4maaa.w726ssERw",
+        "life": "30d",
+        "csLength": 10
+    },
+
+    "staff": {
+        "secret": "mmxc45aaa.w7269sErw",
+        "life": "30d",
+        "csLength": 10
+    }
+}
